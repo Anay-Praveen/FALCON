@@ -130,8 +130,3 @@ If you use FALCON in your research or projects, please cite:
 
 ---
 
-## 📧 Contact
-
-For any questions or feedback, reach out:
-- anaypraveen@example.com
-- aravindh.palaniguru@example.com
